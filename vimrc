@@ -80,3 +80,4 @@ let g:NERDTreeIndicatorMapCustom = {
     \ }
 
 map <F3> :Gdiff <CR>
+map <F4> :Gstatus <CR>
