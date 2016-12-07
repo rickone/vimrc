@@ -81,5 +81,6 @@ let g:NERDTreeIndicatorMapCustom = {
 
 map <F3> :Gdiff <CR>
 map <F4> :Gstatus <CR>
-map <F7> :Gcommit -a <CR>
-map <F8> :Git push <CR>
+map <F8> :Gcommit -a <CR>
+map <F9> :Git pull <CR>
+map <F10> :Git push <CR>
